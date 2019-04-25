@@ -15,7 +15,7 @@ class Banner extends Component {
     render() { 
         return ( <React.Fragment>
             <article className={'container ' + styles['banner-article']} >
-            <h2 className={styles.center}>Welcome to ReAudito</h2>
+            <h2 className={styles.center}>Welcome to Avrit</h2>
             <img src={BrandImage} className={styles.imgcenter + " " + styles.imgpadding} alt="ReAudito" />
             </article>
             
