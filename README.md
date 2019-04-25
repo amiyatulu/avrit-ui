@@ -1,6 +1,6 @@
 ## Avrit UI for Avrit API  
 
-### Avirt User Interface
+### Avrit User Interface
 A decentralized way of designing and reviewing the quality and the importance of study material or content, assignments, projects, practicals and assessments. 
 
 Attributes based on which content will be reviewed:  
