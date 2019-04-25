@@ -1,5 +1,5 @@
 ## Avrit UI for Avrit API  
-![logo](https://raw.githubusercontent.com/amiyatulu/avrit-ui/master/logo.svg)
+![logo](logo.png)
 ### Avirt User Interface
 A decentralized way of designing and reviewing the quality and the importance of study material or content, assignments, projects, practicals and assessments. 
 
