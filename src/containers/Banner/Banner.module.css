@@ -1,0 +1,29 @@
+
+.bodyclass {
+  background-image: url(./../../images/earth.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner-article {
+  padding:20px;
+  margin-top:200px;
+
+
+  background-color: #F7F9FA;
+
+}
+
+.center{
+  text-align: center;
+}
+
+.imgcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.imgpadding {
+  padding:20px;
+}

@@ -1,4 +1,20 @@
+## Avrit UI for Avrit API  
+![logo](log.svg)
+### Avirt User Interface
+A decentralized way of designing and reviewing the quality and the importance of study material or content, assignments, projects, practicals and assessments. 
+
+Attributes based on which content will be reviewed:  
+https://iambrainstorming.wordpress.com/2017/01/14/all-books-that-dont-meet-the-learning-criteria-must-be-taken-off/
+
+### Avrit API   
+https://github.com/amiyatulu/avrit
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### `npm install`
+Installs the packages to run the app.   
 
 ## Available Scripts
 
