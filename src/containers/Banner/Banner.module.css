@@ -14,8 +14,9 @@
 
 }
 
-.center{
+.titleheader{
   text-align: center;
+  font-family: 'BubbleFont';
 }
 
 .imgcenter {

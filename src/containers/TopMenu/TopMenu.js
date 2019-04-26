@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import {Navbar, Nav}  from 'react-bootstrap';
 import MegaMenu from './MegaMenu/MegaMenu';
 import BrandImage from './images/brand.svg';
+import './TopMenu.css';
 import { Link, NavLink } from "react-router-dom";
 
 class TopMenu extends Component {

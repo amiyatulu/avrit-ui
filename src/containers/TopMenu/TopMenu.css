@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'BubbleFont';
+    src:url('./../../fonts/bubbles.ttf');
+  }
+
+
+
+
+.navbar-brand {
+    font-family:'BubbleFont';
+}
+
